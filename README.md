@@ -13,3 +13,5 @@ Download [palworld-save-tools](https://github.com/cheahjs/palworld-save-tools/),
 ```
 python worldmove.py < World Directory (.../XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX) > < Player Server Id (XXXXXXXX000000000000000000000000) > < Player Server Name > < local2server | server2local >
 ```
+
+### Thanks to cheahjs for making palworld-save-tools.
